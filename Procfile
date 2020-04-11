@@ -1,0 +1,1 @@
+web: java -jar doctorfast-web/target/endorsed/webapp-runner.jar doctorfast-web/target/*.war
