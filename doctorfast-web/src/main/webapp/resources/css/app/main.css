@@ -1,0 +1,240 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-may-2017, 1:37:36
+    Author     : MBS GROUP
+*/
+body {
+    color: #000;
+}
+
+select {
+    padding-left: 5px !important;
+}
+
+.form-control {
+    transition: none;
+}
+
+#loader-overflow {
+    opacity: 0.4;
+}
+
+.logo-row {
+    width: auto;
+}
+#pagina-login .bootstrap-tabs .active {
+    display: none !important;
+}
+
+div.dataTables_wrapper div.dataTables_length select {
+    padding: 0;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0;
+}
+
+.fc-bgevent {
+    font-size: 12px;
+    overflow: hidden;
+}
+.header-black-bg {
+    background: #fff;
+}
+.bg-gray-dark .modal-title {
+    color: #fff;
+}
+.close {
+    opacity: 1;
+    color: #fff;
+}
+
+.login-opciones li a{
+    color: #fff !important;
+}
+.login-opciones li a:hover{
+    color: #ddd !important;
+}
+.form-control.error {
+    border-color: #E42C3E !important;
+}
+
+.button.blue {
+    background-color: #4190D3;
+}
+.button.blue:hover {
+    background-color:#60A5DE;
+    cursor:pointer;
+}
+.button.red {
+    color:#fff;
+    background-color:#EC7063;
+}
+.button.red:hover {
+    background-color:#EC857B;
+    cursor:pointer;
+}
+.button.red.hover-thin {
+    border-color: #EC7063;
+}
+.button.red.hover-thin:hover {
+    background:none;
+    border: 2px solid #EC7063;
+    color:#EC7063;
+}
+
+#main-menu .submenu{
+    padding-left: 15px;
+}
+
+#main-menu .padre > a {
+    text-transform: uppercase;
+    font-weight: 600 !important;
+}
+
+#main-menu .navbar .nav > li > a {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.select-tiempoCita{
+    width: 111px;
+}
+.select-departamento{
+    width: 196px;
+}
+.select-provincia{
+    width: 207px;
+}
+.select-distrito{
+    width: 265px;
+}
+.select-estado{
+    width: 175px;
+}
+.select-tipoDocumento{
+    width: 223px;
+}
+.select-repeticionTipo{
+    width: 353px;
+}
+.select-repeticionCada{
+    width: 54px;
+}
+.select-sexo{
+    width: 131px;
+}
+
+.autocomplete-suggestions {
+    overflow: auto;
+    border: 1px solid #CBD3DD;
+    background: #FFF;
+}
+.fw-normal {
+    font-weight: normal;
+}
+
+.clear{
+    clear: both;
+}
+
+.select-styled {
+    display: block;
+}
+
+.chosen-container-single .chosen-single{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    background: transparent;
+    margin: 0;
+    padding: 8px 20px 8px 5px;
+    box-shadow: none !important;
+    height: 34px;
+    font-family: 'Poppins','Open Sans',Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.chosen-container-single .chosen-single div{
+    display: none;
+}
+
+.caja{
+    background: #edeff1;
+}
+
+.caja2{
+    background: #edeff1;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.post-prev-img{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.post-prev-img img{
+    color: #777;
+}
+
+input[type="submit"]:disabled {
+    background-color:#60A5DE;
+    cursor:text;
+}
+
+#captchaTitulo{
+    font-size: 14px;
+    color: grey;
+}
+
+#captchaTexto{
+    font-size: 20px;
+    color: blue;
+}
+
+#captchaInput {
+    font-size: 20px;
+    width: 2.5em;
+    margin-left: .5em;
+}
+
+@media only screen and (max-width: 1169px) {
+    .dataTables_wrapper {
+        font-size: 13px;
+    }
+    table.dataTable thead th, table.dataTable thead td {
+        padding: 10px;
+    }
+    .caja2{
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .side-header {
+        width: 250px;
+    }
+    .side-content {
+        margin-left: 250px;
+    }
+}
+
+@media only screen and (max-width: 870px) {
+    .dataTables_wrapper {
+        font-size: 11px;
+    }
+    table.dataTable thead th, table.dataTable thead td {
+        padding: 10px 5px;
+    }
+
+}
