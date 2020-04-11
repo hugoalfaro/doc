@@ -148,7 +148,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>2.6</version>
 				<configuration>
-				<appName>young-anchorage-8143</appName>
+				<appName>docfast</appName>
 				  <warSourceDirectory>WebContent</warSourceDirectory>
 				  <failOnMissingWebXml>false</failOnMissingWebXml>
 
