@@ -29,7 +29,7 @@
 
                     <!-- LAYER NR. 2 -->
                     <div class="font-18 hide-0-736 mb-210 relative font-norm font-poppins text-center1">
-                        Citas Médicas en Tiempo Real.
+                        Citas Médicas en Tiempo Real...
                     </div>
                 </div>
             </div>
