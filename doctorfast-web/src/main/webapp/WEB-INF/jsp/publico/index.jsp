@@ -24,7 +24,7 @@
 
                     <!-- LAYER NR. 1 -->
                     <div class="light-60-wide ls-norm font-xxs-32-wide mt-0 mb-20 font-norm relative text-center1" >
-                        Reserva Tu Cita Online ahora!
+                        Reserva Tu Cita Online
                     </div>
 
                     <!-- LAYER NR. 2 -->
