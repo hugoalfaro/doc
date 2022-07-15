@@ -17,7 +17,7 @@
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <aws.sdk.version>1.11.142</aws.sdk.version>
+        <aws.sdk.version>1.12.261</aws.sdk.version>
     </properties>
     
     <dependencies><!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3 -->
